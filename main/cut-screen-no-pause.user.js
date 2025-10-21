@@ -1,10 +1,15 @@
 // ==UserScript==
 // @name         Keep Playing (No Pause)
 // @name:zh-CN   切屏不暂停
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/mingtianbian/no-pause-script
 // @version      1.0.0
-// @description  阻止网页在切出标签页时暂停视频，让你可以后台继续播放
-// @description:zh-CN  阻止网页在切出标签页时暂停视频，让你可以后台继续播放
+// @author       mingtianbian (明天扁)
+// @description  Prevent websites from pausing videos when you switch tabs or windows.
+// @description:zh-CN  阻止网页在切出标签页或窗口时暂停视频，让你可以后台继续播放。
+// @homepageURL  https://github.com/mingtianbian/no-pause-script
+// @supportURL   https://github.com/mingtianbian/no-pause-script/issues
+// @updateURL    https://raw.githubusercontent.com/mingtianbian/no-pause-script/main/cut-screen-no-pause.user.js
+// @downloadURL  https://raw.githubusercontent.com/mingtianbian/no-pause-script/main/cut-screen-no-pause.user.js
 // @run-at       document-start
 // @match        *://*/*
 // @grant        none
@@ -82,3 +87,4 @@
     console.error('PreventVisibilityPause setup failed', err);
   }
 })();
+
