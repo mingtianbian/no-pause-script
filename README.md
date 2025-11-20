@@ -18,7 +18,7 @@
 ## 🚀 安装方法
 1. 确保浏览器已安装 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)。  
 2. 点击下方链接即可一键安装：  
-   👉 [点此安装脚本](https://raw.githubusercontent.com/mingtianbian/no-pause-script/main/cut-screen-no-pause.user.js)  
+   👉 [点此安装脚本](https://github.com/mingtianbian/no-pause-script/raw/refs/heads/main/main/cut-screen-no-pause.user.js)  
 3. 刷新需要使用的视频页面，脚本会自动生效。
 
 ## ⚙️ 使用说明
