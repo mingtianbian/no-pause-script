@@ -1,5 +1,9 @@
 # Keep Playing (No Pause)
 
+[🇨🇳 中文](README.md) | 🇺🇸 **English** | [🇯🇵 日本語](README.ja.md)
+
+---
+
 📦 GitHub Repository: [https://github.com/mingtianbian/no-pause-script](https://github.com/mingtianbian/no-pause-script)  
 👤 Author: mingtianbian  
 

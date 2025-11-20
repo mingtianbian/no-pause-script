@@ -1,5 +1,9 @@
 # 切屏不暂停 (Keep Playing · No Pause)
 
+🇨🇳 **中文** | [🇺🇸 English](README.en.md) | [🇯🇵 日本語](README.ja.md)
+
+---
+
 📦 GitHub 仓库地址： [https://github.com/mingtianbian/no-pause-script](https://github.com/mingtianbian/no-pause-script)  
 👤 作者：明天扁  
 
