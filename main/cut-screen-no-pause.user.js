@@ -2,7 +2,7 @@
 // @name         Keep Playing (No Pause)
 // @name:zh-CN   切屏不暂停
 // @namespace    https://github.com/mingtianbian/no-pause-script
-// @version      1.0.2
+// @version      1.0.3
 // @author       mingtianbian (明天扁)
 // @description  Prevent websites from pausing videos when you switch tabs or windows.
 // @description:zh-CN  阻止网页在切出标签页或窗口时暂停视频，让你可以后台继续播放。
@@ -11,8 +11,8 @@
 // @updateURL    https://github.com/mingtianbian/no-pause-script/raw/refs/heads/main/main/cut-screen-no-pause.user.js
 // @downloadURL  https://github.com/mingtianbian/no-pause-script/raw/refs/heads/main/main/cut-screen-no-pause.user.js
 // @run-at       document-start
-// @match        https://*.chaoxing.com/*        // 超星学习通
-// @match        https://*.yuketang.cn/*         // 雨课堂
+// @match        https://*.chaoxing.com/*
+// @match        https://*.yuketang.cn/*
 // @grant        none
 // ==/UserScript==
 
