@@ -3,7 +3,7 @@
 📦 GitHub 仓库地址： [https://github.com/mingtianbian/no-pause-script](https://github.com/mingtianbian/no-pause-script)  
 👤 作者：明天扁  
 
-[![Install directly](https://img.shields.io/badge/安装脚本-点击这里-brightgreen)](https://raw.githubusercontent.com/mingtianbian/no-pause-script/main/cut-screen-no-pause.user.js)
+[![Install directly](https://img.shields.io/badge/安装脚本-点击这里-brightgreen)](https://github.com/mingtianbian/no-pause-script/raw/refs/heads/main/main/cut-screen-no-pause.user.js)
 
 ## 📖 简介
 这是一个 **用户脚本 (UserScript)**，用于阻止网页在切出标签页或窗口时自动暂停视频。  

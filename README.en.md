@@ -3,7 +3,7 @@
 📦 GitHub Repository: [https://github.com/mingtianbian/no-pause-script](https://github.com/mingtianbian/no-pause-script)  
 👤 Author: mingtianbian  
 
-[![Install directly](https://img.shields.io/badge/Install-Click%20Here-brightgreen)](https://raw.githubusercontent.com/mingtianbian/no-pause-script/main/cut-screen-no-pause.user.js)
+[![Install directly](https://img.shields.io/badge/Install-Click%20Here-brightgreen)](https://github.com/mingtianbian/no-pause-script/raw/refs/heads/main/main/cut-screen-no-pause.user.js)
 
 ## 📖 Introduction
 This is a **UserScript** designed to prevent websites from pausing videos automatically when you switch tabs or windows.  
