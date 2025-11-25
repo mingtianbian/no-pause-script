@@ -4,8 +4,8 @@
 
 ---
 
-📦 GitHub リポジトリ: [https://github.com/mingtianbian/no-pause-script](https://github.com/mingtianbian/no-pause-script)  
-👤 作者: mingtianbian  
+📦 GitHub リポジトリ: [https://github.com/mingtianbian/no-pause-script](https://github.com/mingtianbian/no-pause-script)
+👤 作者:mingtianbian
 
 [![Install directly](https://img.shields.io/badge/インストール-ここをクリック-brightgreen)](https://github.com/mingtianbian/no-pause-script/raw/refs/heads/main/main/cut-screen-no-pause.user.js)
 
@@ -21,8 +21,8 @@
 
 ## 🚀 インストール方法
 1. ブラウザに [Tampermonkey](https://www.tampermonkey.net/) または [Violentmonkey](https://violentmonkey.github.io/) がインストールされていることを確認してください。
-2. 以下のリンクをクリックしてスクリプトをインストールします：  
-   👉 [インストールはこちら](https://github.com/mingtianbian/no-pause-script/raw/refs/heads/main/main/cut-screen-no-pause.user.js)  
+2. 以下のリンクをクリックしてスクリプトをインストールします：
+   👉 [インストールはこちら](https://github.com/mingtianbian/no-pause-script/raw/refs/heads/main/main/cut-screen-no-pause.user.js)
 3. 対象の動画ページを再読み込み（リフレッシュ）すると、スクリプトが自動的に有効になります。
 
 ## ⚙️ 使用方法
