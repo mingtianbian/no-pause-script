@@ -4,7 +4,7 @@
 
 ---
 
-📦 GitHub リポジトリ: [https://github.com/mingtianbian/no-pause-script](https://github.com/mingtianbian/no-pause-script)
+📦 GitHub リポジトリ: [https://github.com/mingtianbian/no-pause-script](https://github.com/mingtianbian/no-pause-script)  
 👤 作者:mingtianbian
 
 [![Install directly](https://img.shields.io/badge/インストール-ここをクリック-brightgreen)](https://github.com/mingtianbian/no-pause-script/raw/refs/heads/main/main/cut-screen-no-pause.user.js)

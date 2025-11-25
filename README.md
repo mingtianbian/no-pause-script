@@ -4,7 +4,7 @@
 
 ---
 
-📦 GitHub 仓库地址： [https://github.com/mingtianbian/no-pause-script](https://github.com/mingtianbian/no-pause-script)
+📦 GitHub 仓库地址： [https://github.com/mingtianbian/no-pause-script](https://github.com/mingtianbian/no-pause-script)  
 👤 作者：明天扁
 
 [![Install directly](https://img.shields.io/badge/安装脚本-点击这里-brightgreen)](https://github.com/mingtianbian/no-pause-script/raw/refs/heads/main/main/cut-screen-no-pause.user.js)

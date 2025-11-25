@@ -4,7 +4,7 @@
 
 ---
 
-📦 GitHub Repository: [https://github.com/mingtianbian/no-pause-script](https://github.com/mingtianbian/no-pause-script)
+📦 GitHub Repository: [https://github.com/mingtianbian/no-pause-script](https://github.com/mingtianbian/no-pause-script)  
 👤 Author:mingtianbian
 
 [![Install directly](https://img.shields.io/badge/Install-Click%20Here-brightgreen)](https://github.com/mingtianbian/no-pause-script/raw/refs/heads/main/main/cut-screen-no-pause.user.js)
