@@ -1,6 +1,6 @@
 # 画面切り替え時の自動一時停止を無効化 (Keep Playing · No Pause)
 
-[🇨🇳 中文](README.md) | [🇺🇸 English](README.en.md) | 🇯🇵 **日本語**
+[🇨🇳 中文](README.md) | [🇺🇸 English](README.en.md) | 🇯🇵 **日本語** | [🇷🇺 Русский](README.ru.md) | [🇫🇷 Français](README.fr.md)
 
 ---
 
@@ -20,7 +20,7 @@
 - デバッグスイッチを提供し、必要に応じて一時停止を許可することも可能です
 
 ## 🚀 インストール方法
-1. ブラウザに [Tampermonkey](https://www.tampermonkey.net/) または [Violentmonkey](https://violentmonkey.github.io/) がインストールされていることを確認してください。
+1. ブラウザに [Violentmonkey](https://violentmonkey.github.io/) または [Tampermonkey](https://www.tampermonkey.net/) がインストールされていることを確認してください。
 2. 以下のリンクをクリックしてスクリプトをインストールします：
    👉 [インストールはこちら](https://github.com/mingtianbian/no-pause-script/raw/refs/heads/main/main/cut-screen-no-pause.user.js)
 3. 対象の動画ページを再読み込み（リフレッシュ）すると、スクリプトが自動的に有効になります。

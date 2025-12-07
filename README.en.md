@@ -1,6 +1,6 @@
 # Keep Playing (No Pause)
 
-[🇨🇳 中文](README.md) | 🇺🇸 **English** | [🇯🇵 日本語](README.ja.md)
+[🇨🇳 中文](README.md) | 🇺🇸 **English** | [🇯🇵 日本語](README.ja.md) | [🇷🇺 Русский](README.ru.md) | [🇫🇷 Français](README.fr.md)
 
 ---
 
@@ -20,7 +20,7 @@ It is useful if you want **background playback / uninterrupted video** while mul
 - Provide a debug switch to temporarily allow pausing if needed
 
 ## 🚀 Installation
-1. Make sure your browser has [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/) installed.
+1. Make sure your browser has [Violentmonkey](https://violentmonkey.github.io/) or [Tampermonkey](https://www.tampermonkey.net/) installed.
 2. Click the link below to install the script:
    👉 [Click here to install](https://github.com/mingtianbian/no-pause-script/raw/refs/heads/main/main/cut-screen-no-pause.user.js)
 3. Refresh the video page, and the script will automatically take effect.
